@@ -1,0 +1,18 @@
+Mobile Internet Speed Analysis Across Locations is a data-driven project that evaluates the performance of 
+mobile internet networks across different geographical locations. The system collects key network 
+parameters such as download speed, upload speed, latency, signal strength, jitter, packet loss, and network 
+type (4G/5G) using speed test applications and GPS-based location tracking. The collected data is stored in a 
+centralized database and analyzed to identify variations in network performance, detect weak coverage 
+areas, and compare internet quality across different regions. 
+Statistical analysis and visualization techniques are used to generate graphs, charts, and location-based maps 
+for easy interpretation of the results. The project also examines the impact of factors such as location, time 
+of day, network congestion, and signal strength on internet performance. By analyzing trends over multiple 
+observations, the system provides a more accurate assessment of network reliability rather than relying on a 
+single speed test. 
+Furthermore, the project enables comparison of different mobile network providers based on real-world 
+performance metrics and identifies areas where users experience poor connectivity. The generated insights 
+can help users select the most suitable network for a particular location while assisting telecom service 
+providers in improving coverage, optimizing network resources, and enhancing overall Quality of Service 
+(QoS). The proposed system offers a scalable and cost-effective approach for continuous mobile network 
+performance monitoring and can be extended to support predictive analytics and smart city connectivity 
+planning in the future.
